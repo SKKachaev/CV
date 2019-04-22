@@ -27,7 +27,7 @@
 * YouTrack, Mantis, Trello — постановка задач / отслеживание ошибок
 * Google Docs, MediaWiki, Apache Tika — накопление и шаринг знаний
 * MySQL, PostgreSQL, Python, Google Spreadsheets — хранение и обработка данных для аналитики
-* Canban / Waterfall / здравый смысл — модели управления процессами
+* Canban / Scrum / здравый смысл — модели управления процессами
 
 
 
